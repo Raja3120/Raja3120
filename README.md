@@ -32,13 +32,16 @@
   <code><img title="Python" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
   <code><img title="JavaScript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
   <code><img title="React" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
+  <code><img title="Next.js" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></code>
   <code><img title="Node.js" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
+  <code><img title="Django" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"></code>
   <code><img title="MySQL" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
   <code><img title="PostgreSQL" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code>
   <code><img title="Git" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
   <code><img title="GitHub" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
   <code><img title="VSCode" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
 </p>
+
 
 ---
 
@@ -48,7 +51,7 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Raja3120&show_icons=true&theme=react&border_color=61dafb&hide_border=true">
   <img width="49%" src="https://streak-stats.demolab.com/?user=Raja3120&theme=react&border=61dafb&hide_border=true" />
   <br><br>
-  <img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raja3120&hide=Jupyter%20Notebook&layout=compact&theme=react&border_color=61dafb&hide_border=true">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raja3120&hide=Jupyter%20Notebook&layout=compact&theme=react&border_color=61dafb&hide_border=true">
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raja3120&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
