@@ -48,8 +48,9 @@
 <h2 align="center">📈 GitHub Stats & Activity</h2>
 
 <p align="center">
+  <img width="50%" src="https://streak-stats.demolab.com/?user=Raja3120&theme=react&border=61dafb&hide_border=true" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Raja3120&show_icons=true&theme=react&border_color=61dafb&hide_border=true">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Raja3120&theme=react&border=61dafb&hide_border=true" />
+  
   <br><br>
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raja3120&hide=Jupyter%20Notebook&layout=compact&theme=react&border_color=61dafb&hide_border=true">
   <br><br>
