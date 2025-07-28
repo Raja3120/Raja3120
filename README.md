@@ -59,5 +59,5 @@
 ---
 
 <h4 align="center">
-  <a href="https://github.com/Raja3120?tab=repositories">🔎 Check out my projects! 🔍</a>
+  <a href="https://github.com/Raja3120?tab=repositories">🔎 Check out my projects! </a>
 </h4>
